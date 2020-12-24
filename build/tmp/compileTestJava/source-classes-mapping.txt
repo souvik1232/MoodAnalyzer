@@ -1,0 +1,2 @@
+com/mechanitis/demo/MoodAnalyzerTest.java
+ com.mechanitis.demo.MoodAnalyzerTest
